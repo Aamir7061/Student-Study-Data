@@ -11,7 +11,7 @@ Used area plot, ggplot, and pair plot.
 Data cleaning and preprocessing to ensure quality and accuracy.
 
 ## Model Development:-
-Utilized a linear regression model to predict student grades based on study hours. Key steps include:
+Utilized a linear regression model to predict student grades based on study hours.
 
 ## Splitting the dataset into training and testing sets.
 Training the linear regression model on the training set.
